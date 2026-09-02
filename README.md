@@ -23,7 +23,7 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
   <a href="https://www.instagram.com/nicolasccampos">
     <img src="https://img.shields.io/badge/Instagram-@nicolasccampos-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="[https://www.linkedin.com/in/nicolas-coimbra](https://www.linkedin.com/in/nicolas-coimbra-de-campos/">
+  <a href="https://www.linkedin.com/in/nicolas-coimbra-de-campos">
   <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Coimbra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 </p>
