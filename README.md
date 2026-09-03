@@ -20,10 +20,7 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
   <a href="https://github.com/nicolasccampos">
   <img src="https://img.shields.io/badge/GitHub-nicolasccampos-181717?style=for-the-badge&logo=github" />
 </a>
-
-
-
-  
+  <br>
   <a href="https://www.linkedin.com/in/nicolas-coimbra-de-campos">
   <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Coimbra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
