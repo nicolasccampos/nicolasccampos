@@ -70,14 +70,6 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
-## 📊 Estatísticas do GitHub
-
-<p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=tokyonight&locale=pt-br" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasccampos&layout=compact&theme=tokyonight&locale=pt-br" />
-</p>
-
----
 
 ## 🚀 Minha Jornada
 
