@@ -77,10 +77,10 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 
 ## 📊 Estatísticas do GitHub
 
-<p align="left">
+[<p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=tokyonight&locale=pt-br" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasccampos&layout=compact&theme=tokyonight&locale=pt-br" />
-</p>
+</p>](https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=tokyonight)
 
 ---
 
