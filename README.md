@@ -1,13 +1,12 @@
 # Olá 👋, Sou Nicolas Coimbra
 
-🚀 **Desenvolvedor Full Stack | Java & Spring Boot**  
-🎓 Ciência da Computação
+🚀 **Desenvolvedor Full Stack em formação | Java & Spring Boot**
+🎓 Ciência da Computação @ FECAP
+🇧🇷 Brasil
 
-🇧🇷 **Brasil**
+Estudante apaixonado por tecnologia e pela criação de soluções através do código.
 
-Apaixonado por tecnologia e pela criação de soluções através do código.
-
-Estou constantemente **construindo projetos**, explorando **novas tecnologias** e **aprimorando minhas habilidades**, sempre buscando escrever um código mais **limpo, organizado e eficiente**.
+Estou em constante aprendizado, construindo projetos acadêmicos e pessoais, explorando novas tecnologias e buscando escrever um código cada vez mais limpo e organizado.
 
 🚀 **Em constante evolução, um commit de cada vez.**
 
@@ -17,10 +16,8 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 
 <p align="left">
   <a href="https://github.com/nicolasccampos">
-    <img src="https://img.shields.io/badge/GitHub-nicolasccampos-181717?style=for-the-badge&logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-nicolasccampos-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
-  <br>
-  <br>
   <a href="https://www.linkedin.com/in/nicolas-coimbra-de-campos">
     <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Coimbra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
@@ -28,17 +25,16 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 
 ---
 
-## 🧠 O que venho estudando
+## 🌱 O que estou estudando
 
 - ☕ Desenvolvimento Backend com Java & Spring Boot
-- 🔗 Criação e consumo de APIs REST
-- 🔐 Autenticação e integração com banco de dados
-- 🗄️ Modelagem e consultas em bancos de dados SQL
-- ⚛️ Desenvolvimento de interfaces com React
-- 🌐 Desenvolvimento Web com HTML, CSS & JavaScript
+- 🔗 APIs REST e integração entre sistemas
+- 🟢 Node.js e JavaScript no backend
+- 🗄️ Bancos de dados relacionais com MySQL e PostgreSQL
+- ⚛️ Desenvolvimento frontend com React, JavaScript, HTML e CSS
 - 🔄 Integração entre Frontend, Backend e Banco de Dados
 - 🛠️ Versionamento de projetos com Git & GitHub
-- 📚 Estudante de Ciência da Computação em constante aprendizado
+- 📚 Graduando em Ciência da Computação na FECAP
 - 🎯 Em busca da primeira oportunidade como Estagiário ou Desenvolvedor Júnior
 
 ---
@@ -57,7 +53,6 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
 
 ### 🗄️ Banco de Dados
 
@@ -75,11 +70,52 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 
 ---
 
+## 🚀 Projetos em Destaque
+
+### 🕹️ Axis Defense — Projeto Interdisciplinar | 1º Semestre FECAP
+> Survival shooter 3D para desktop, onde o jogador defende a nave estelar Axis de uma frota inimiga no espaço profundo.
+
+Primeiro projeto interdisciplinar desenvolvido em equipe durante a graduação. Foi meu primeiro contato com o desenvolvimento de uma aplicação completa, lógica de programação, POO e trabalho colaborativo.
+
+**Tecnologias:** `C#` `Unity` `Git` `GitHub`
+
+➡️ [Acessar repositório](https://github.com/2026-1-NCC1/Projeto5)
+
+🚧 Projeto acadêmico concluído no 1º semestre.
+
+---
+
+### 🌐 Projeto Interdisciplinar Web — 2º Semestre FECAP
+> Aplicação web completa desenvolvida em equipe, com foco na integração entre frontend, backend e dados.
+
+Projeto em desenvolvimento como Projeto Interdisciplinar do 2º semestre. Aplicando na prática conceitos de desenvolvimento web moderno, componentização, consumo de APIs e versionamento em equipe.
+
+**Tecnologias:** `JavaScript` `HTML` `CSS` `React` `Node.js`
+
+➡️ [Acessar repositório](https://github.com/2026-2-NCC2/Projeto4)
+
+🔄 Em desenvolvimento.
+
+---
+
+### ☕ Bootcamp Java & IA — Itaú + DIO
+> Repositório de estudos onde registro minha evolução em Java, desde os fundamentos até Spring Boot e Inteligência Artificial.
+
+Reúne exercícios, anotações, desafios de código e projetos desenvolvidos durante o bootcamp.
+
+**Tecnologias:** `Java` `Spring Boot` `Git` `GitHub`
+
+➡️ [Acessar repositório](https://github.com/nicolasccampos/bootcamp-java-ia-itau)
+
+🔄 Em andamento.
+
+---
+
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolasccampos&theme=tokyonight" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolasccampos&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=nicolasccampos&theme=tokyonight&locale=pt-BR&mode=daily&hide_border=true" />
 </p>
 
 ---
@@ -88,11 +124,13 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 
 > _"Cada projeto é uma oportunidade de aprender algo novo, superar desafios e evoluir como desenvolvedor."_
 
-Atualmente curso **Ciência da Computação** e venho construindo minha experiência através de projetos acadêmicos e pessoais, com foco em **desenvolvimento Backend e Full Stack**.
+Atualmente curso **Ciência da Computação na FECAP** e estou construindo minha base através de projetos acadêmicos e pessoais, com foco em **desenvolvimento Backend e Full Stack**.
 
-Busco minha primeira oportunidade na área de tecnologia como **Estagiário ou Desenvolvedor Júnior**, onde eu possa aplicar meus conhecimentos, aprender com novos desafios e crescer profissionalmente.
+Também estou participando do **Bootcamp Java & IA do Itaú + DIO**, onde registro minha evolução em Java, Spring Boot e Inteligência Artificial.
+
+Busco minha primeira oportunidade na área de tecnologia como **Estagiário ou Desenvolvedor Júnior**, onde eu possa aplicar o que venho estudando, aprender com profissionais mais experientes e crescer profissionalmente.
 
 ---
 
-⭐ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.  
+⭐ Sinta-se à vontade para explorar meus projetos e acompanhar minha evolução.
 🤝 Aberto a oportunidades, projetos, conexões e novos aprendizados.
