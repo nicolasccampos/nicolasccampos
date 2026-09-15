@@ -78,8 +78,8 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 ## 📊 Estatísticas do GitHub
 
 <p align="left">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=tokyonight" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasccampos&layout=compact&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nicolasccampos&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nicolasccampos&theme=tokyonight" />
 </p>
 
 ---
