@@ -1,16 +1,15 @@
 # Olá 👋, Sou Nicolas Coimbra
 
-🚀 **Desenvolvedor Full Stack | Java & Spring Boot**
+🚀 **Desenvolvedor Full Stack | Java & Spring Boot**  
 🎓 Ciência da Computação
 
 🇧🇷 **Brasil**
 
-Desenvolvedor apaixonado por tecnologia e pela criação de soluções através do código.
+Apaixonado por tecnologia e pela criação de soluções através do código.
 
-Estou constantemente **construindo projetos**, explorando **novas tecnologias** e **aprimorando minhas habilidades**, sempre buscando escrever código mais **limpo, organizado e eficiente**.
+Estou constantemente **construindo projetos**, explorando **novas tecnologias** e **aprimorando minhas habilidades**, sempre buscando escrever um código mais **limpo, organizado e eficiente**.
 
 🚀 **Em constante evolução, um commit de cada vez.**
-
 
 ---
 
@@ -18,29 +17,30 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 
 <p align="left">
   <a href="https://github.com/nicolasccampos">
-  <img src="https://img.shields.io/badge/GitHub-nicolasccampos-181717?style=for-the-badge&logo=github" />
-</a>
+    <img src="https://img.shields.io/badge/GitHub-nicolasccampos-181717?style=for-the-badge&logo=github" />
+  </a>
   <br>
   <br>
   <a href="https://www.linkedin.com/in/nicolas-coimbra-de-campos">
-  <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Coimbra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
+    <img src="https://img.shields.io/badge/LinkedIn-Nicolas%20Coimbra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-## 🧠 O que eu faço
+## 🧠 O que venho estudando
 
 - ☕ Desenvolvimento Backend com Java & Spring Boot
 - 🔗 Criação e consumo de APIs REST
 - 🔐 Autenticação e integração com banco de dados
-- 🗄️ Modelagem e gerenciamento de bancos de dados SQL
+- 🗄️ Modelagem e consultas em bancos de dados SQL
 - ⚛️ Desenvolvimento de interfaces com React
 - 🌐 Desenvolvimento Web com HTML, CSS & JavaScript
 - 🔄 Integração entre Frontend, Backend e Banco de Dados
 - 🛠️ Versionamento de projetos com Git & GitHub
 - 📚 Estudante de Ciência da Computação em constante aprendizado
 - 🎯 Em busca da primeira oportunidade como Estagiário ou Desenvolvedor Júnior
+
 ---
 
 ## 🛠️ Tech Stack
@@ -56,11 +56,15 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![JSON](https://img.shields.io/badge/JSON-000000?style=for-the-badge&logo=json&logoColor=white)
+
+### 🗄️ Banco de Dados
+
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🔧 DevOps Tolls
+### 🔧 Ferramentas
 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -71,11 +75,20 @@ Estou constantemente **construindo projetos**, explorando **novas tecnologias** 
 
 ---
 
+## 📊 Estatísticas do GitHub
+
+<p align="left">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=tokyonight&locale=pt-br" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasccampos&layout=compact&theme=tokyonight&locale=pt-br" />
+</p>
+
+---
+
 ## 🚀 Minha Jornada
 
 > _"Cada projeto é uma oportunidade de aprender algo novo, superar desafios e evoluir como desenvolvedor."_
 
-Atualmente curso **Ciência da Computação** e estou construindo minha experiência através de projetos acadêmicos e pessoais, com foco em **desenvolvimento Backend e Full Stack**.
+Atualmente curso **Ciência da Computação** e venho construindo minha experiência através de projetos acadêmicos e pessoais, com foco em **desenvolvimento Backend e Full Stack**.
 
 Busco minha primeira oportunidade na área de tecnologia como **Estagiário ou Desenvolvedor Júnior**, onde eu possa aplicar meus conhecimentos, aprender com novos desafios e crescer profissionalmente.
 
