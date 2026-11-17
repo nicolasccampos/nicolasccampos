@@ -66,7 +66,7 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
 </p>
 
 <p align="center">
-  <img src="./nicolasccampos-space-shooter.gif" alt="Space Shooter das minhas contribuições no GitHub" width="100%" />
+  <img src="./game.gif" alt="Space Shooter das minhas contribuições no GitHub" width="100%" />
 </p>
 
 ## 🛠️ Languages & Tools
