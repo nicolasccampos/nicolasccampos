@@ -59,19 +59,16 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
 
 <p align="center">
   <a href="https://github.com/nicolasccampos">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasccampos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10"/>
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasccampos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt=" " />
   </a>
   
   <img src="https://streak-stats.demolab.com/?user=nicolasccampos&theme=dark&hide_border=true&cache_seconds=86400" alt="Sequência de contribuições no GitHub" width="49%" />
 </p>
 
 <p align="center">
-  <img src="https://trophy.ryglcloud.net/?username=nicolasccampos&theme=dark&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Troféus do GitHub" />
-</p>
-
-<p align="center">
   <img src="./nicolasccampos-space-shooter.gif" alt="Space Shooter das minhas contribuições no GitHub" width="100%" />
 </p>
+
 ## 🛠️ Languages & Tools
 
 <h3 align="center">Programming Languages</h3>
