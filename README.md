@@ -45,7 +45,7 @@ Aplicação web desenvolvida em equipe, com foco na integração entre frontend,
 
 **Tecnologias:** `JavaScript` `HTML` `CSS` `React` `Node.js`
 
-➡️ [Repositório](https://github.com/2026-2-NCC2/Projeto4) · 🔄 Em desenvolvimento
+➡️ [Repositório](https://github.com/2026-2-NCC2/Projeto4) · ✅ Concluído
 
 ### ☕ Bootcamp Java & IA (Itaú + DIO)
 
