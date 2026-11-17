@@ -59,7 +59,7 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
 
 <p align="center">
   <a href="https://github.com/nicolasccampos">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasccampos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Estatísticas do GitHub" />
+    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasccampos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt=""/>
   </a>
   
   <img src="https://streak-stats.demolab.com/?user=nicolasccampos&theme=dark&hide_border=true&cache_seconds=86400" alt="Sequência de contribuições no GitHub" width="49%" />
