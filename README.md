@@ -8,20 +8,19 @@
   <img src="https://komarev.com/ghpvc/?username=nicolasccampos&label=Profile%20views&color=00FFFF&style=flat-square" alt="Visualizações do perfil" />
 </p>
 
-## 📌 About Me
+## 📌 Sobre mim
 
-- Estudante de Ciência da Computação na FECAP
+- Ciência da Computação · FECAP · cursando
 - Estudando Java, Spring Boot e desenvolvimento web
 - Buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior
 
-## 🧠 My Focus Areas
+## 🌱 Estudando agora
 
-- Desenvolvimento back-end com Java e Spring Boot
-- APIs REST, persistência de dados e bancos relacionais
-- Desenvolvimento full stack e integração entre frontend e backend
-- Git, GitHub e automação com GitHub Actions
+- Spring Boot: APIs REST, camadas de serviço e persistência
+- JavaScript: funções, escopo e closures
+- Java: orientação a objetos e modelagem de classes
 
-## 🚀 Projects
+## 🚀 Projetos
 
 ### 📚 Studie and Grow: caderno de estudos automatizado
 
@@ -55,14 +54,14 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
 
 ➡️ [Repositório](https://github.com/nicolasccampos/bootcamp-java-ia-itau) · 🔄 Em andamento
 
-## 📊 GitHub Stats & Trophies
+## 📊 GitHub Estatísticas
 
 <p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=dark&hide_border=true&cache_seconds=7200" alt="Estatísticas do GitHub" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=nicolasccampos&theme=dark&hide_border=true&cache_seconds=86400" alt="Sequência de contribuições no GitHub" />
 </p>
 
-## 🛠️ Languages & Tools
+## 🛠️ Lingens e Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -81,6 +80,11 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
   </a>&nbsp;
   <a href="https://nicolasccampos.github.io/studie-and-grow/">
     <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/WWW.svg" alt="Caderno de estudos" width="40" />
+  </a>
+</p>
+<p align="center">
+  <a href="./curriculo.pdf">
+    <img src="https://img.shields.io/badge/Currículo-PDF-181717?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Baixar currículo" />
   </a>
 </p>
 
