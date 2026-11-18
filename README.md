@@ -2,7 +2,7 @@
   Olá! <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30" width="30" alt="Gato digitando"> Sou Nicolas Coimbra de Campos
 </h1>
 
-<h3 align="center">Estudante de Ciência da Computação | Desenvolvimento Back-end com Java</h3>
+<h3 align="center">Estudante de Ciência da Computação na FECAP | Desenvolvedor Back-end Java | Spring Boot, APIs REST e bancos de dados | Buscando estágio
 
 
 
@@ -32,8 +32,8 @@ Pipeline que sincroniza anotações do Notion via API, converte o conteúdo para
 
 ### 🕹️ Axis Defense: projeto interdisciplinar (1º semestre · FECAP)
 
-Survival shooter 3D para desktop, desenvolvido em equipe de [número] pessoas em Unity com C#.
-Fui responsável por [sua parte concreta]. Um desafio foi [problema técnico], resolvido com [solução].
+Survival shooter 3D para desktop, desenvolvido em equipe de 4 pessoas em Unity com C#.
+Fui responsável por Liderar os integrantes do grupo, gerenciar responsabilidades, gerenciar entregas e atuar como desenvolvedor. Um desafio foi a falta de conhecimento técnico dos integrantes, como também a organização das funções e entregas de cada desenvolvedor, resolvido com um fluxo Kanban para determinar tarefas e verificar se foram feitas, juntamente com a determinação dos integrantes em estudar e se aprofundarem nas tecnologias para alcançarem o conhecimento necessário para a conclusão do projeto.
 
 **Tecnologias:** `C#` `Unity` `Git` `GitHub`
 
