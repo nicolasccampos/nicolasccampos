@@ -58,15 +58,8 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
 ## 📊 GitHub Stats & Trophies
 
 <p align="center">
-  <a href="https://github.com/nicolasccampos">
-    <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=nicolasccampos&cache_seconds=7200&layout=compact&theme=dark&border_radius=10" alt="Estatísticas do GitHub" />
-  </a>
-  
-  <img src="https://streak-stats.demolab.com/?user=nicolasccampos&theme=dark&hide_border=true&cache_seconds=86400" alt="Sequência de contribuições no GitHub" width="49%" />
-</p>
-
-<p align="center">
-  <img src="./game.gif" alt="Space Shooter das minhas contribuições no GitHub" width="100%" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=dark&hide_border=true&cache_seconds=7200" alt="Estatísticas do GitHub" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=nicolasccampos&theme=dark&hide_border=true&cache_seconds=86400" alt="Sequência de contribuições no GitHub" />
 </p>
 
 ## 🛠️ Languages & Tools
