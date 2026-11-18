@@ -1,12 +1,10 @@
 <h1 align="center">
-  Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30" width="30" alt="Gato digitando"> I'm Nicolas Coimbra de Campos
+  Olá! <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30" width="30" alt="Gato digitando"> Sou Nicolas Coimbra de Campos
 </h1>
 
 <h3 align="center">Estudante de Ciência da Computação | Desenvolvimento Back-end com Java</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nicolasccampos&label=Profile%20views&color=00FFFF&style=flat-square" alt="Visualizações do perfil" />
-</p>
+
 
 ## 📌 Sobre mim
 
