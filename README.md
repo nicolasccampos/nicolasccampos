@@ -56,6 +56,9 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nicolasccampos&show_icons=true&theme=dark&hide_border=true&cache_seconds=7200&hide_rank=true" alt="Estatísticas do GitHub" />
   <img width="49%" src="https://streak-stats.demolab.com/?user=nicolasccampos&theme=dark&hide_border=true&cache_seconds=86400" alt="Sequência de contribuições no GitHub" />
 </p>
+<p align="center">
+  <img src="./game.gif" alt="Space Shooter gerado a partir das minhas contribuições no GitHub" width="100%" />
+</p>
 
 ## 🛠️ Linguagens e tecnologias
 
