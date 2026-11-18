@@ -8,9 +8,11 @@
 
 ## 📌 Sobre mim
 
-- Ciência da Computação · FECAP · cursando
-- Estudando Java, Spring Boot e desenvolvimento web
-- Buscando minha primeira oportunidade como estagiário ou desenvolvedor júnior
+Estudante de Ciência da Computação na FECAP, focado em desenvolvimento back-end com Java e Spring Boot. Busco minha primeira oportunidade como **estagiário ou desenvolvedor júnior**.
+
+- Estudo APIs REST e como elas se conectam ao banco de dados e ao frontend
+- Aprendo por conta própria e registro o que estudo em um caderno público, automatizado com GitHub Actions
+- Pratico Git com commits semânticos e organização de repositórios
 
 ## 🌱 Estudando agora
 
@@ -30,7 +32,8 @@ Pipeline que sincroniza anotações do Notion via API, converte o conteúdo para
 
 ### 🕹️ Axis Defense: projeto interdisciplinar (1º semestre · FECAP)
 
-Survival shooter 3D para desktop em que o jogador defende a nave estelar Axis de uma frota inimiga. Foi meu primeiro projeto em equipe com uma aplicação completa, envolvendo lógica, POO e colaboração.
+Survival shooter 3D para desktop, desenvolvido em equipe de [número] pessoas em Unity com C#.
+Fui responsável por [sua parte concreta]. Um desafio foi [problema técnico], resolvido com [solução].
 
 **Tecnologias:** `C#` `Unity` `Git` `GitHub`
 
@@ -59,7 +62,7 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
   <img width="49%" src="https://streak-stats.demolab.com/?user=nicolasccampos&theme=dark&hide_border=true&cache_seconds=86400" alt="Sequência de contribuições no GitHub" />
 </p>
 
-## 🛠️ Lingens e Tecnologias
+## 🛠️ Linguagens e Tecnologias
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -67,7 +70,7 @@ Repositório com exercícios, anotações, desafios e projetos do bootcamp, do b
   </a>
 </p>
 
-## 🔗 Connect with Me
+## 🔗 Conecte comigo
 
 <p align="center">
   <a href="https://www.linkedin.com/in/nicolas-coimbra-de-campos/">
