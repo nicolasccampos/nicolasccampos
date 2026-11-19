@@ -34,11 +34,11 @@ Atuei como líder da equipe e também participei do desenvolvimento. Organizei a
 
 ➡️ [Repositório](https://github.com/2026-1-NCC1/Projeto5) · ✅ Concluído
 
-### 🌐 Projeto interdisciplinar web (2º semestre · FECAP)
+### 🌐 Projeto interdisciplinar web
 
-Aplicação web desenvolvida em equipe, com integração entre frontend, backend e dados, consumo de APIs e versionamento colaborativo.
+Aplicação web desenvolvida por uma equipe de quatro alunos, com integração entre frontend, backend e dados. Fui responsável por grande parte do frontend, incluindo formulários, por partes do backend em JavaScript e pela documentação do projeto.
 
-**Tecnologias:** `JavaScript` `HTML` `CSS` `React` `Node.js`
+`JavaScript` `HTML` `CSS` `React` `Node.js`
 
 ➡️ [Repositório](https://github.com/2026-2-NCC2/Projeto4) · ✅ Concluído
 
