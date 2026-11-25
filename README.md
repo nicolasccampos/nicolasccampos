@@ -10,8 +10,8 @@ Sou estudante de Ciência da Computação na FECAP e busco estágio em desenvolv
 
 ## 🌱 Estudando agora
 
-- Spring Boot: APIs REST, camadas de serviço e persistência
-- JavaScript: funções, escopo e closures
+- Spring Boot: APIs REST, camadas de serviço e persistência.
+- JavaScript: funções, escopo e closures.
 - Java: orientação a objetos e modelagem de classes
 
 ## 🚀 Projetos
